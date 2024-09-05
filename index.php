@@ -108,8 +108,8 @@
 
             <!-- Section: Steps -->
             
-<!-- 
-            Section: About Us -->
+
+            Section: About Us
             <section class="backlight-bottom divider-top">
                 
                 
