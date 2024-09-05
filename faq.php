@@ -26,7 +26,7 @@
     <!-- Header -->
   <?php include "assets/header.php"; ?>
   
-    Page Main
+    <!-- Page Main -->
     <main id="bringer-main">
         <div class="stg-container">
             <!-- Section: Page Title -->
