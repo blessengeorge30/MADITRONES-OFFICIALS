@@ -141,7 +141,7 @@
                 
             </section>
 
-            <!-- Section: Portfolio Carousel -->
+            Section: Portfolio Carousel
             <section class="is-fullwidth is-stretched">
                 <!-- Section Title -->
                 <div class="stg-row bringer-section-title is-boxed">
