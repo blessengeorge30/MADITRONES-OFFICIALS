@@ -322,7 +322,7 @@
                 </div><!-- .bringer-marquee -->
             </section>
             
-             <!-- Section: What Makes Us Best -->
+             Section: What Makes Us Best
             <section class="backlight-bottom">
                 
                                 <!-- Section Title -->
