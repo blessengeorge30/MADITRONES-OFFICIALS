@@ -141,7 +141,7 @@
                 
             </section>
 
-            Section: Portfolio Carousel
+            <!-- Section: Portfolio Carousel -->
             <section class="is-fullwidth is-stretched">
                 <!-- Section Title -->
                 <div class="stg-row bringer-section-title is-boxed">
@@ -322,7 +322,7 @@
                 </div><!-- .bringer-marquee -->
             </section>
             
-             <!-- Section: What Makes Us Best -->
+             Section: What Makes Us Best
             <section class="backlight-bottom">
                 
                                 <!-- Section Title -->
