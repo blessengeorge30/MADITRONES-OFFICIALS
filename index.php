@@ -411,30 +411,7 @@
                 </div><!-- .bringer-hero-block -->
             </section>
 
-            <!-- Section: CTA -->
-        <!--    <section data-padding="bottom">-->
-        <!--        <div class="bringer-masked-cta bringer-masked-block" data-unload="fade-down">-->
-        <!--            <form action="" method="post"  class="bringer-contact-form is-short bringer-masked-media" >-->
-        <!--                <div class="bringer-form-content bringer-cta-form">-->
-        <!--                    <div class="bringer-cta-form-content" data-appear="fade-up" data-delay="100">-->
-        <!--                        <div class="bringer-cta-title">Ready to set your Brand ablaze?</div>-->
-        <!--                        <input type="email" name="subscribe_email" placeholder="info@maditrones.com" required>-->
-        <!--                    </div>-->
-        <!--                    <div class="bringer-cta-form-button" data-appear="fade-up" data-delay="200">-->
-        <!--                        <button name="submit" type="submit">-->
-        <!--                            <span class="bringer-icon bringer-icon-arrow-submit"></span>-->
-        <!--                        </button>-->
-        <!--                    </div>-->
-                           
-        <!--                </div>-->
-                        
-        <!--            </form>-->
-        <!--            <div class="bringer-masked-cta-content bringer-masked-content at-top-right">-->
-        <!--                <p class="bringer-large-text" data-appear="fade-down">Let's craft a visual identity that ignites passion and loyalty. ✨</p>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--    </section>-->
-        <!--</div><!-- .stg-container -->
+
         
         
           
