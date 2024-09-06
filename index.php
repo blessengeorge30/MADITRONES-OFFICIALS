@@ -213,7 +213,7 @@
                                 <span class="bringer-icon bringer-icon-explore"></span>
                             </div>
                             <a href="portfolio-post04"></a>
-                        </div><!-- .bringer-portfolio-card -->
+                        </div><!-- bringer-portfolio-card -->
                                                 
                         <!-- Card Item 05 -->
                         <div class="bringer-block bringer-portfolio-card swiper-slide">
