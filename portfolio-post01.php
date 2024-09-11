@@ -69,7 +69,7 @@
                     </div>
                 </div>
 
-                Meta
+                <!-- Meta -->
                 <div class="bringer-hero-info-line" data-stagger-appear="fade-up" data-delay="200" data-stager-delay="100" data-unload="fade-up">
                     <div class="bringer-meta">
                         Client: <span>Curology</span>
