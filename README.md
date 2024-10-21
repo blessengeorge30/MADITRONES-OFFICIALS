@@ -1,7 +1,7 @@
 
 # MADIRTONES - WEBSITE   💻 🚀
 
-Welcome to Maditrones, where creativity meets expertise. Maditrones is a dynamic ad and digital marketing agency specializing in crafting compelling campaigns that connect brands with their audiences
+Welcome to Maditrones, where creativity meets expertise. Maditrones is a dynamic ad and digital marketing agency specializing in crafting compelling campaigns that connect brands with their audiences.
 
 
 
