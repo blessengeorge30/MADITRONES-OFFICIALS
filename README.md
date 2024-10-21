@@ -27,5 +27,5 @@ Welcome to Maditrones, where creativity meets expertise. Maditrones is a dynamic
 
 ## Demo
 
-Visit live Demo-Website : https://www.maditrones.com/project/maditrones/index
+Visit live Demo-Website : https://www.maditrones.com
 
