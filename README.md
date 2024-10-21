@@ -9,6 +9,8 @@ Welcome to Maditrones, where creativity meets expertise. Maditrones is a dynamic
 
 ##  Screenshots
 ![App Screenshot](./screenshots/S1.png)
+![App Screenshot](./screenshots/S2.png)
+![App Screenshot](./screenshots/S3.png)
 ![App Screenshot](./screenshots/M1.png)
 ![App Screenshot](./screenshots/M2.png)
 ![App Screenshot](./screenshots/M3.png)
